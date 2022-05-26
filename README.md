@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with : backend technologies
 - 💬 Ask me about : music, horror and many more.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:  I'm addidcted to TMKOC.
+- ⚡ Fun fact:  Anxiety creeps me.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anisalunke&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anisalunke&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
