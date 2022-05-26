@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm addidcted to TMKOC.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anisalunke &theme=radical)
+
