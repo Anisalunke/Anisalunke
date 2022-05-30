@@ -4,7 +4,6 @@
 - 👯 I’m looking to collaborate on : web projects
 - 🤔 I’m looking for help with : backend technologies
 - 💬 Ask me about : music, horror and many more.
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact:  Anxiety creeps me.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anisalunke&show_icons=true&theme=radical)
